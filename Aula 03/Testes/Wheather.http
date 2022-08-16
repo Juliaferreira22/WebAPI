@@ -1,0 +1,7 @@
+ ### Solicitrando previsão do tempo 
+
+GET https://localhost:5001/WeatherForecast
+
+#### Solicitrando Usuario 
+
+GET http://localhost:5001/api/usuario/listar 

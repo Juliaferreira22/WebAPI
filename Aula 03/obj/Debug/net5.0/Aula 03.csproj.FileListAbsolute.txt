@@ -1,0 +1,29 @@
+C:\Aula 03\bin\Debug\net5.0\appsettings.Development.json
+C:\Aula 03\bin\Debug\net5.0\appsettings.json
+C:\Aula 03\bin\Debug\net5.0\Aula 03.exe
+C:\Aula 03\bin\Debug\net5.0\Aula 03.deps.json
+C:\Aula 03\bin\Debug\net5.0\Aula 03.runtimeconfig.json
+C:\Aula 03\bin\Debug\net5.0\Aula 03.runtimeconfig.dev.json
+C:\Aula 03\bin\Debug\net5.0\Aula 03.dll
+C:\Aula 03\bin\Debug\net5.0\ref\Aula 03.dll
+C:\Aula 03\bin\Debug\net5.0\Aula 03.pdb
+C:\Aula 03\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Aula 03\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Aula 03\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Aula 03\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Aula 03\obj\Debug\net5.0\Aula 03.csproj.AssemblyReference.cache
+C:\Aula 03\obj\Debug\net5.0\Aula 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aula 03\obj\Debug\net5.0\Aula 03.AssemblyInfoInputs.cache
+C:\Aula 03\obj\Debug\net5.0\Aula 03.AssemblyInfo.cs
+C:\Aula 03\obj\Debug\net5.0\Aula 03.csproj.CoreCompileInputs.cache
+C:\Aula 03\obj\Debug\net5.0\Aula 03.MvcApplicationPartsAssemblyInfo.cs
+C:\Aula 03\obj\Debug\net5.0\Aula 03.MvcApplicationPartsAssemblyInfo.cache
+C:\Aula 03\obj\Debug\net5.0\staticwebassets\Aula 03.StaticWebAssets.Manifest.cache
+C:\Aula 03\obj\Debug\net5.0\staticwebassets\Aula 03.StaticWebAssets.xml
+C:\Aula 03\obj\Debug\net5.0\scopedcss\bundle\Aula 03.styles.css
+C:\Aula 03\obj\Debug\net5.0\Aula 03.RazorTargetAssemblyInfo.cache
+C:\Aula 03\obj\Debug\net5.0\Aula 03.csproj.CopyComplete
+C:\Aula 03\obj\Debug\net5.0\Aula 03.dll
+C:\Aula 03\obj\Debug\net5.0\ref\Aula 03.dll
+C:\Aula 03\obj\Debug\net5.0\Aula 03.pdb
+C:\Aula 03\obj\Debug\net5.0\Aula 03.genruntimeconfig.cache
